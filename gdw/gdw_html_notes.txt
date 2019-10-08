@@ -1,0 +1,45 @@
+			Lesson 1 Vocab
+Angle Brackets: Used in HTML as brackets for typing 
+commands </>
+
+Tags: A  keyword assigned to a part of information
+
+Open Tag: HTML elements are started by an Open tag 
+which does not have a slash in the beginning. <title>
+
+Close Tag: Used to end an HTML element and has a slash 
+in the beginning. </title>
+
+HTML Element: A part of an HTML document that has a 
+meaning, and does something to the document.
+
+Attribute: Characteristics of the element like width or
+height.
+
+Value: Defines text on an element, defines the intial 
+value.
+
+Assignment Operator: Assigns values to variables.
+
+Comment: Explains code, not shown in browsers.
+
+			Lesson 2 Vocab
+
+Formal Language: Used in situations that natural 
+languages do not work. 
+
+Syntax: Grammatical rules and patterns making sure the
+proper symbols, words, commands are correct.
+
+Markup Language: Standards like HTML used to  create a 
+proper structure and format.
+			Lesson 3 Vocab
+Block-level Elements: A block element is an element that starts on a new line.
+
+Inline Elements: Elements that only use up space by the element.
+
+Object Elements: An external resource which is treated as an image or plugin.
+
+Special Characters: Special characters are symbols such as greek letters, math
+symbols, arrows, etc.
+
